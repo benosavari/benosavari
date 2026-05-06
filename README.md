@@ -7,7 +7,7 @@ Software engineer building internal platforms that help engineering teams ship f
 ---
 
 ## 🔗 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Beno_Savarimuthu-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/benojeya/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Beno_Savari-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/benojeya/)
 [![Email](https://img.shields.io/badge/Email-benojeyas@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:benojeyas@gmail.com)
 
 ---
