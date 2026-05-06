@@ -56,7 +56,7 @@ Node.js webhook server with rule-based event processing, JWT auth, and Monday.co
 
 ## 📊 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=benosavari&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/benosavari)
+[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benosavari&theme=tokyonight)](https://github.com/benosavari)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=benosavari&theme=tokyonight&hide_border=true)
 
