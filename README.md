@@ -1,4 +1,4 @@
-# Hi, I'm Beno 👋
+# Hi, I'm Beno!
 
 Software engineer building internal platforms that help engineering teams ship faster CI/CD pipelines, SCM automation, developer tooling, and full-stack web apps.
 
