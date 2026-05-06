@@ -1,6 +1,8 @@
 # Hi, I'm Beno!
 
-Software engineer building internal platforms that help engineering teams ship faster CI/CD pipelines, SCM automation, developer tooling, and full-stack web apps.
+Software Engineer focused on backend systems, DevOps automation, and developer tooling.
+
+I enjoy building practical tools that solve real engineering problems, especially around CI/CD, infrastructure, automation, and AI-assisted workflows.
 
 🎓 MS CS (HCI) · Georgia Institute of Technology  ·  5+ years @ Ohio PERS · USA
 
@@ -27,7 +29,7 @@ Lightweight Ruby-based tool for building and deploying apps with Docker.
 ---
 
 ### 🔹 Webhook Automation Engine
-Node.js webhook server with rule-based event processing, JWT auth, and Monday.com simulation.
+Node.js webhook server with rule-based event processing, JWT auth, and Monday.com simulation.  
 **Stack:** Node.js · Express · JavaScript · JWT
 
 ---
