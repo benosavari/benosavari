@@ -27,7 +27,7 @@ Lightweight Ruby-based tool for building and deploying apps with Docker.
 ---
 
 ### 🔹 Webhook Automation Engine
-Node.js webhook server with rule-based event processing, JWT auth, and Monday.com simulation. 
+Node.js webhook server with rule-based event processing, JWT auth, and Monday.com simulation.
 **Stack:** Node.js · Express · JavaScript · JWT
 
 ---
