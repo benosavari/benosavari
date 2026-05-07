@@ -23,7 +23,7 @@ Analyze failed GitHub Actions using AI and create issues with error summary and 
 ---
 
 ### 🔹 AI Yoga Routine Generator
-AI-powered yoga routine generator that creates personalized yoga flows based on goals, experience level, flexibility, and available time.
+AI-powered yoga routine generator that creates personalized yoga flows based on goals, experience level, flexibility, and available time.  
 **Stack:** Python · OpenAI API · Docker · React
 
 ---
