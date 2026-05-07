@@ -16,52 +16,34 @@ I enjoy building practical tools that solve real engineering problems, especiall
 
 ## 🚀 Current Projects
 
-### 🔹 AI-Powered Jenkins Log Analyzer
-Summarizes failed Jenkins jobs using AI and suggests fixes automatically.  
+### 🔹 AI-Powered Build Log Analyzer
+Analyze failed GitHub Actions using AI and create issues with error summary and possible fixes.  
 **Stack:** Python · Jenkins · GitHub Actions · OpenAI API
 
 ---
 
-### 🔹 Docker Deployer
-Lightweight Ruby-based tool for building and deploying apps with Docker.  
-**Stack:** Ruby · Docker · YAML
+### 🔹 AI Yoga Routine Generator
+AI-powered yoga routine generator that creates personalized yoga flows based on goals, experience level, flexibility, and available time.
+**Stack:** Python · OpenAI API · Docker · React
 
 ---
 
-### 🔹 Webhook Automation Engine
-Node.js webhook server with rule-based event processing, JWT auth, and Monday.com simulation.  
-**Stack:** Node.js · Express · JavaScript · JWT
+## 🛠 Tech Stack
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | `Java` `Python` `TypeScript` `JavaScript` `SQL` `Ruby` |
+| **Backend** | `Spring Boot` `REST APIs` `Microservices` `RabbitMQ` |
+| **Frontend** | `Angular` |
+| **DevOps** | `Docker` `Kubernetes` `Jenkins` `GitHub Actions` `Terraform` |
+| **Tools** | `Git` `Linux` `Grafana` `Datadog` `Postman` |
 
 ---
 
-## 🛠️ Tech Stack
+## ✨ Beyond Tech
 
-**Languages**  
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![SQL](https://skillicons.dev/icons?i=mysql)
-
-**Backend & APIs**  
-![Spring Boot](https://skillicons.dev/icons?i=spring)
-![Angular](https://skillicons.dev/icons?i=angular)
-![GraphQL](https://skillicons.dev/icons?i=graphql)
-
-**DevOps & Cloud**  
-![Docker](https://skillicons.dev/icons?i=docker)
-![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
-![Jenkins](https://skillicons.dev/icons?i=jenkins)
-![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
-![Linux](https://skillicons.dev/icons?i=linux)
+Outside of tech, you’ll find me traveling or practicing yoga.🧘‍♀️
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benosavari&theme=tokyonight)](https://github.com/benosavari)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=benosavari&theme=tokyonight&hide_border=true)
-
----
-
-*Always open to connecting. Reach out on LinkedIn!*
+*Always open to connecting or new opportunites. Reach out!*
