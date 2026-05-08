@@ -46,4 +46,4 @@ Outside of tech, you’ll find me traveling or practicing yoga.
 
 ---
 
-*Always open to connecting or new opportunites. Reach out!*
+*Always open to connecting or new opportunites. Feel free to reach out!*
