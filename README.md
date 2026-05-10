@@ -18,7 +18,7 @@ MS CS (HCI) · Georgia Institute of Technology  ·  5+ years @ Ohio PERS · US
 
 ### AI-Powered Build Log Analyzer
 Analyze failed GitHub Actions using AI and create issues with error summary and possible fixes.  
-**Stack:** Python · Jenkins · GitHub Actions · OpenAI API
+**Stack:** Python · GitHub Actions · OpenAI API
 
 ---
 
